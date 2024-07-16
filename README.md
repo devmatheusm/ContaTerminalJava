@@ -17,7 +17,7 @@ Este repositório contém um simples programa Java para gerenciamento de contas 
 1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) instalado na sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ContaTerminal.git
+   git clone https://github.com/devmatheusm/ContaTerminalJava.git
    ```
 3. Navegue até o diretório do projeto:
    ```bash
